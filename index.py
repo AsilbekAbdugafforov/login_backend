@@ -1,5 +1,5 @@
 # login_backend
-login uchun back end kodlari
+#login uchun back end kodlari
 
 while True:
     ism = input("ismingizni kiriting: ")
